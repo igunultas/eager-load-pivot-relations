@@ -1,5 +1,5 @@
 {
-    "name": "ajcastro/eager-load-pivot-relations",
+    "name": "igunultas/eager-load-pivot-relations",
     "description": "Eager load pivot relations for Laravel Eloquent's BelongsToMany relation.",
     "type": "library",
     "license": "MIT",
@@ -7,6 +7,10 @@
         {
             "name": "Arjon Jason Castro",
             "email": "ajcastro29@gmail.com"
+        },
+        {
+            "name": "Ihsan Gunultas",
+            "email": "ihsan@ezv.io"
         }
     ],
     "require": {
